@@ -1,7 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "$id": "https://example.com/schema/playlist.json",
-    "title": "playlist",
     "type": "object",
     "properties": {
         "playlist": {
@@ -81,6 +80,3 @@
     },
     "required": ["playlist"]
 }
-
-
-        

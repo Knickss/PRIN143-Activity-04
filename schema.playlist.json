@@ -1,0 +1,7 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://example.com/schema.student.json",
+    "title": "Ang Huling El Bimbo",
+    "artist": "Eraserheads",
+    "album": "Cutterpillow",
+    "releaseYear": 1998,
